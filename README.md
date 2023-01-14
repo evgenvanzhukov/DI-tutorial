@@ -13,6 +13,7 @@ It only fetch data from API and shows in TableView. But In contrast of other my 
 
 
 links:
+
 public api for data some random users: https://randomuser.me
 
 base tutorial: https://www.youtube.com/watch?v=ooUyCbO4hNw
